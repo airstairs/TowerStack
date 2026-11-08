@@ -1,8 +1,8 @@
 {
-  "name": "Whiteboard",
-  "productName": "Whiteboard",
+  "name": "TowerStack",
+  "productName": "TowerStack",
   "version": "1.0.0",
-  "description": "Whiteboard for Windows",
+  "description": "TowerStack for Windows",
   "author": "xthan",
   "main": "main.js",
   "scripts": {
