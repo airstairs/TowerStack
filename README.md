@@ -1,13 +1,10 @@
 # TowerStack
 Is hard
 
+<img src="ic.png" style="width: 40px;">  
 
-![ic](ic.png)   
+<img src="recording.gif" style="width: 280px;">  
 
+<img src="windows.gif" style="width: 799px;">  
 
-
-
-![rec](recording.gif)   
-
-
-for android
+for windows and android <3 
